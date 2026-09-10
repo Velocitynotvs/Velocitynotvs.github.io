@@ -1,8 +1,4 @@
 title: The most amazing blog
 description: Vel's blog for blogging blogs
 theme: minima
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true 
 
