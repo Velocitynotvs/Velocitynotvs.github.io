@@ -1,9 +1,9 @@
 ---
 layout: home
-title: About me
+title: Home
 ---
-
-Hello and Welcome to my blog where I blog about stuff </ br>
-and um yes that's all </ br>
-Cheers </ br>
-MG </ br>
+# about me
+Hello and Welcome to my blog where I blog about stuff <br /> 
+and um yes that's all <br /> 
+Cheers <br /> 
+MG <br /> 
