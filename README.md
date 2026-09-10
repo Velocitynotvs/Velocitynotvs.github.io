@@ -1,3 +1,6 @@
-# Velocitynotvs.github.io
+---
+layout: home
+title: About me 
+---
 
 the blog
