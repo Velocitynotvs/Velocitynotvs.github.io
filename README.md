@@ -1,4 +1,4 @@
 ---
- Velocitynotvs.github.io
+ title: Velocitynotvs.github.io
 ---
 the blog
