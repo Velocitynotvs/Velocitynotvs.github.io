@@ -3,4 +3,7 @@ layout: home
 title: About me
 ---
 
-the blog
+Hello and Welcome to my blog where I blog about stuff 
+and um yes that's all 
+Cheers
+MG
