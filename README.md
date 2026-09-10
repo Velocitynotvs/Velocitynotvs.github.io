@@ -1,6 +1,4 @@
----
-layout: home
-title: About me 
----
+# layout: home
+# title: About me 
 
 the blog
