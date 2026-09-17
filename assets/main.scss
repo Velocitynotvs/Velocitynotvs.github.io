@@ -5,9 +5,14 @@
 .site-header{
   background-color:#4185c4;
 }
+
+.container{
+  display: flex;
+  flex-direction: row;
+}
 .site-footer {
     display: flex;
-  flex-direction: row;
+    flex-direction: row;
     border-top: 1px solid #e8e8e8;
     padding: 10px 0;
     background-color:#4185c4;
@@ -20,3 +25,4 @@
   justify-content: flex-start; 
   align-items: flex-start;
 }
+
