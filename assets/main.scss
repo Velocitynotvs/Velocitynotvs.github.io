@@ -22,19 +22,11 @@
     justify-content: center;
 }
 
-.layout-left{
+.layout{
   display: flex;
   flex-direction: column;
   justify-content: flex-start; 
   align-items: flex-start;
   float: right;
 }
-.layout-right{
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start; 
-  align-items: flex-start;
-  float: right;
-}
-
 
