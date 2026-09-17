@@ -2,14 +2,24 @@
 ---
 @import "minima";
 
-.site-header{
-  background-color:#4185c4;
+.site-header {
+  background-color: #4185c4;
+  border-top: none;
+  border-bottom: none;
+  padding: 16px 0;
+  width: 100%;
+}
+
+
+.navbar {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: flex-start;
+  align-items: center;
   width: 100%;
-  max-width: 740px;         
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 0 20px;
   box-sizing: border-box;
 }
 
