@@ -1,4 +1,9 @@
 title: Below The Terrace
 author: https://github.com/Velocitynotvs/Velocitynotvs.github.io
 description: Ma beutitful Github
-theme: minima
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
