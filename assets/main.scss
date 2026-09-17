@@ -16,6 +16,20 @@
   box-sizing: border-box;
 }
 
+.navbar{
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-item{
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-item a{
+  color: #ffffff;
+}
+
 .site-footer {
     display: flex;
     flex-direction: row;
