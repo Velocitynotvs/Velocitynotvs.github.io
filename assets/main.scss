@@ -11,6 +11,8 @@
     background-color:#4185c4;
 }
 .footer-col-wrapper {
+    display: flex;
+    justify-content: space-evenly;
     font-size: 15px;
     color: #fff;
     margin-left: -15px;
