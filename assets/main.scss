@@ -12,9 +12,7 @@
   justify-content: space-between;
   align-items: flex-start;
   width: 100%;
-  max-width: 1200px;             
-  margin: 0 auto;                
-  padding: 0 20px;                
+  max-width: 1200px;         
   box-sizing: border-box;
 }
 
@@ -32,7 +30,6 @@
   flex-direction: column;
   justify-content: flex-start; 
   align-items: flex-start;
-  float: right;
 }
 
 .layout:last-child {
