@@ -1,13 +1,14 @@
 title: Below The Terrace
 author:
   name: vel
-description: Ma beutitful Github
+description: My beautiful Github
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  - title: Check out my github
+  social_links:
+    - title: Check out my github
       icon: github
       url: "https://github.com/Velocitynotvs"
-  plugins:
+plugins:
   - jekyll-feed
   - jekyll-remote-theme
