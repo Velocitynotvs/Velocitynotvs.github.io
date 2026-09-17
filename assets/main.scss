@@ -6,13 +6,18 @@
   background-color:#4185c4;
 }
 
-.container{
+.container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: flex-start;
-  gap: 10px
+  width: 100%;
+  max-width: 1200px;             
+  margin: 0 auto;                
+  padding: 0 20px;                
+  box-sizing: border-box;
 }
+
 .site-footer {
     display: flex;
     flex-direction: row;
@@ -30,3 +35,7 @@
   float: right;
 }
 
+.layout:last-child {
+  align-items: flex-end;     
+  text-align: right;
+}
