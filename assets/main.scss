@@ -6,9 +6,17 @@
   background-color:#4185c4;
 }
 .site-footer {
-    display:flex;
+    display: flex;
+  flex-direction: row;
     border-top: 1px solid #e8e8e8;
     padding: 10px 0;
     background-color:#4185c4;
     justify-content: center;
+}
+
+.site-footer .layout{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; 
+  align-items: flex-start;
 }
