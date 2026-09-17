@@ -1,4 +1,4 @@
 title: Below The Terrace
 author: https://github.com/Velocitynotvs/Velocitynotvs.github.io
 description: Ma beutitful Github
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minima
