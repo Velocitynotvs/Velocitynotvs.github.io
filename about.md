@@ -1,6 +1,6 @@
 ---
 title: About me
-layout: Post
+layout: post
 ---
 
 # about me
