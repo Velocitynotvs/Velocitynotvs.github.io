@@ -59,6 +59,11 @@
   color: #ffffff;
 }
 
+.site-nav .page-link {
+    color: #424242;
+    line-height: 1.5;
+}
+
 .site-footer {
     display: flex;
     flex-direction: row;
@@ -79,10 +84,12 @@
 .layout h1{
   font-size: 26px;
   font-weight: 300;
+  color: #424242;
 }
 .layout h2{
   font-size: 20px;
   font-weight: 300;
+  color: #424242;
 }
 .layout a {
   display: inline-flex;
