@@ -3,3 +3,5 @@ description: Vel's blog for blogging blogs
 author: Vel
 theme: minima
 github_username:  Velocitynotvs
+header_pages:
+  - about.md
