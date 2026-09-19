@@ -7,4 +7,4 @@ Hello and Welcome to my blog where I blog about stuff <br />
 If i find something that i am intrested about i will probably write a blog about it here eventually...<br /> 
 Cheers <br /> 
 MG <br /> 
-<img width="3940" height="2765" alt="London skyline" src="https://github.com/user-attachments/assets/9673ec8b-ec35-4cef-9bc0-d3a362748273" />
+<img width="944" height="663" alt="London skyline" src="https://github.com/user-attachments/assets/9673ec8b-ec35-4cef-9bc0-d3a362748273" />
