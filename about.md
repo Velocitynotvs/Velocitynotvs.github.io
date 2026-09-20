@@ -8,3 +8,4 @@ If i find something that i am intrested about i will probably write a blog about
 Cheers <br /> 
 MG <br /> 
 <img alt="skyline of london" src="https://github.com/user-attachments/assets/ad1e25b8-951b-4612-afe2-bbe28fcbf66a" />
+<img alt="Untitled-1" src="https://github.com/user-attachments/assets/8eb69b92-eb44-4eba-8b84-a41f9b18b16a" />
