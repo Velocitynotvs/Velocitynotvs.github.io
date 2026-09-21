@@ -6,3 +6,5 @@ github_username:  Velocitynotvs
 header_pages:
   - index.md
   - about.md
+disqus:
+  shortname: https-velocitynotvs-github-io
